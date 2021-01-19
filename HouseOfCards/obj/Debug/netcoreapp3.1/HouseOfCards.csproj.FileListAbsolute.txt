@@ -1,0 +1,11 @@
+E:\Shubham\practice\HouseOfCards\HouseOfCards\bin\Debug\netcoreapp3.1\HouseOfCards.exe
+E:\Shubham\practice\HouseOfCards\HouseOfCards\bin\Debug\netcoreapp3.1\HouseOfCards.deps.json
+E:\Shubham\practice\HouseOfCards\HouseOfCards\bin\Debug\netcoreapp3.1\HouseOfCards.runtimeconfig.json
+E:\Shubham\practice\HouseOfCards\HouseOfCards\bin\Debug\netcoreapp3.1\HouseOfCards.runtimeconfig.dev.json
+E:\Shubham\practice\HouseOfCards\HouseOfCards\bin\Debug\netcoreapp3.1\HouseOfCards.dll
+E:\Shubham\practice\HouseOfCards\HouseOfCards\obj\Debug\netcoreapp3.1\HouseOfCards.csprojAssemblyReference.cache
+E:\Shubham\practice\HouseOfCards\HouseOfCards\obj\Debug\netcoreapp3.1\HouseOfCards.AssemblyInfoInputs.cache
+E:\Shubham\practice\HouseOfCards\HouseOfCards\obj\Debug\netcoreapp3.1\HouseOfCards.AssemblyInfo.cs
+E:\Shubham\practice\HouseOfCards\HouseOfCards\bin\Debug\netcoreapp3.1\HouseOfCards.pdb
+E:\Shubham\practice\HouseOfCards\HouseOfCards\obj\Debug\netcoreapp3.1\HouseOfCards.dll
+E:\Shubham\practice\HouseOfCards\HouseOfCards\obj\Debug\netcoreapp3.1\HouseOfCards.pdb
